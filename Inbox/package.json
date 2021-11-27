@@ -1,0 +1,14 @@
+{
+  "name": "inbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe l Indien",
+  "license": "ISC",
+  "dependencies": {
+    "solc": "^0.5.16"
+  }
+}
